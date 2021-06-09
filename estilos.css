@@ -42,3 +42,9 @@ p {
     float: right;
     margin-left: 20px;
 }
+
+#page-header {
+    background-color: #FFFFFF44;
+    box-shadow: 4px 4px 4px #0003;
+    padding: 30px;
+}
