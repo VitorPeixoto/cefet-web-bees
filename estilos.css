@@ -31,6 +31,7 @@ p {
     border-radius: 50%;
     border: 5px inset #f5a810;
     shape-outside: circle(50%);
+    margin-bottom: 10px;
 }
 
 .img-esquerda {
@@ -77,4 +78,8 @@ p:last-of-type {
 
 img:not([alt]) {
     border: 4px solid red;
+}
+
+.curiosidade {
+    clear: both;
 }
