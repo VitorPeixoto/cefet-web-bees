@@ -48,3 +48,33 @@ p {
     box-shadow: 4px 4px 4px #0003;
     padding: 30px;
 }
+
+a:link {
+    text-decoration: none;
+    color: mediumblue;
+}
+
+a:hover {
+    color: brown;
+    text-decoration: underline;
+}
+
+a:active {
+    color: blueviolet;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a[href^="http"] {
+    background-color: #FF000044;
+}
+
+p:last-of-type {
+    text-align: right;
+}
+
+img:not([alt]) {
+    border: 4px solid red;
+}
