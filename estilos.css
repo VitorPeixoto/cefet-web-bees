@@ -13,3 +13,16 @@ p {
     display: block;
     margin: auto;
 }
+
+.curiosidade {
+    background-image: url('imgs/favo-de-mel.png');
+
+    border: 1px solid #f5a810;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.curiosidade > img {
+    float: left;
+    margin-right: 20px;
+}
