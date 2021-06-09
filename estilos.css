@@ -26,3 +26,19 @@ p {
     float: left;
     margin-right: 20px;
 }
+
+.casta-de-abelha {
+    border-radius: 50%;
+    border: 5px inset #f5a810;
+    shape-outside: circle(50%);
+}
+
+.img-esquerda {
+    float: left;
+    margin-right: 20px;
+}
+
+.img-direita {
+    float: right;
+    margin-left: 20px;
+}
